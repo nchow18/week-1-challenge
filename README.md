@@ -14,5 +14,5 @@
 
 ## Screenshot
 
-![My image] (./assets/images/horiseon.jpg?raw=true)
+![My image] (images/horiseon.jpg?raw=true)
 
