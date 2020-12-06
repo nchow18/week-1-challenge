@@ -118,6 +118,10 @@ body {
     max-width: 150px;
 }
 
+.benefits p {
+    text-align: left;
+}
+
 .footer {
     padding: 30px;
     clear: both;

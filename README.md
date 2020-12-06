@@ -1,7 +1,18 @@
 # Code Refactor Starter Code
-removed div class="header"
-removed body section
-completed top bar within <head>
-contained body section with body content
-updated div to nav in header
-added id="search-engine-optimization" line 31
+
+## Horiseon Web Project
+
+### This project contains the design and use of search engine optimization, online reputation management and social media marketing
+
+## Motivation
+
+### This project helped with understanding how to consolidate proper html and css code to be clearner and concise.  The next user will understand and make updates with ease.
+
+## Code Style
+
+### project uses html and css basics, with 3 key components > sections/articles/nav
+
+## Screenshot
+
+[My image] (nchow18.github.com/week-1-challenge/assets/images/horiseon.jpg)
+
