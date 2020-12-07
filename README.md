@@ -1,6 +1,9 @@
-# Code Refactor Starter Code
+# Horiseon Web Project
 
-## Horiseon Web Project
+* Direct Link to website: https://nchow18.github.io/week-1-challenge/#social-media-marketing
+* Direct link to index.html: https://github.com/nchow18/week-1-challenge/blob/master/index.html
+* Direct link to project: https://github.com/nchow18/week-1-challenge
+* Direct link to css: https://github.com/nchow18/week-1-challenge/blob/master/assets/css/style.css
 
 ### This project contains the design and use of 
 * search engine optimization 
@@ -9,7 +12,7 @@
 
 ## Motivation
 
-### This project helped with understanding how to consolidate proper html and css code to be clearner and concise.  The next user will understand and make updates with ease.
+#### This project helped with understanding how to consolidate proper html and css code to be clearner and concise.  The next user will understand and make updates with ease.
 
 ## Code Style
 
