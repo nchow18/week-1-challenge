@@ -14,5 +14,5 @@
 
 ## Screenshot
 
-![My image] (/images/horiseon.jpg)
+![website-view] (/images/horiseon.jpg)
 
