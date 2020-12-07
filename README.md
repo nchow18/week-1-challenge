@@ -14,5 +14,5 @@
 
 ## Screenshot
 
-![website-view] (/assets/images/horiseon.jpg)
+[website-view] (/assets/images/horiseon.jpg)
 
