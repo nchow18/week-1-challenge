@@ -2,7 +2,10 @@
 
 ## Horiseon Web Project
 
-### This project contains the design and use of search engine optimization, online reputation management and social media marketing
+### This project contains the design and use of 
+* search engine optimization 
+* online reputation management
+* social media marketing
 
 ## Motivation
 
@@ -10,7 +13,10 @@
 
 ## Code Style
 
-### project uses html and css basics, with 3 key components > sections/articles/nav
+### project uses html and css basics, with 3 key components
+1. sections
+2. articles
+3. nav
 
 ## Screenshot
 
