@@ -14,5 +14,5 @@
 
 ## Screenshot
 
-![My image] (images/horiseon.jpg?raw=true)
+![My image] (https://github.com/nchow18/week-1-challenge/blob/master/assets/images/horiseon.jpg)
 
